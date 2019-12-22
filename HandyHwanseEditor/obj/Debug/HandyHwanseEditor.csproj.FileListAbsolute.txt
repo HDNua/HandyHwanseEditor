@@ -1,0 +1,9 @@
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.csprojAssemblyReference.cache
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.MainForm.resources
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.Properties.Resources.resources
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.csproj.GenerateResource.cache
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\bin\Debug\HandyHwanseEditor.exe.config
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\bin\Debug\HandyHwanseEditor.exe
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\bin\Debug\HandyHwanseEditor.pdb
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.exe
+C:\Users\weve\source\repos\HandyHwanseEditor\HandyHwanseEditor\obj\Debug\HandyHwanseEditor.pdb
